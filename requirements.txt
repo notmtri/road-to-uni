@@ -1,0 +1,22 @@
+# Core Data Science
+numpy 
+pandas 
+matplotlib 
+seaborn 
+scipy
+# Machine Learning
+scikit-learn
+# Deep Learning
+torch 
+torchvision 
+torchaudio
+# Jupyter
+jupyter 
+jupyterlab
+# Visualization
+plotly
+# Utilities
+requests 
+beautifulsoup4
+# Progress bars (nice to have)
+tqdm
